@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SehatDompet",
+    "scheme": "sehatdompet",
+    "slug": "sehatdompet",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    
+    
+    "ios": {
+      "bundleIdentifier": "com.sehatdompet.app",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "App needs access to your photo library to upload receipts.",
+        "NSCameraUsageDescription": "App needs access to your camera to capture receipt photos."
+      }
+    },
+    "android": {
+      
+    },
+    "web": { "bundler": "metro" }
+  }
+}

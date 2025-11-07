@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+mobile/node_modules/
+package-lock.json
+mobile/package-lock.json
+
+# React Native / Expo
+mobile/ios/Pods/
+mobile/android/
+mobile/.expo/
+mobile/.expo-shared/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+api_server.log
+
+# Env
+.env
+.env.*
+
