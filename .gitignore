@@ -23,3 +23,6 @@ api_server.log
 .env
 .env.*
 
+# Project docs to ignore
+asisten_pribadi_berbasis_pengeluaran_rencana_eksekusi_mvp_8_10_minggu.md
+ui_brief.md
